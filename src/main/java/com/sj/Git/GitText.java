@@ -12,5 +12,6 @@ public class GitText {
         System.out.println("hello har4");
         System.out.println("hello master");
         System.out.println("hello hot-fix");
+        System.out.println("push hot-fix");
     }
 }
